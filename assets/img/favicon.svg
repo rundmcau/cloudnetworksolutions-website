@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="CNS favicon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6ea8ff"/>
+      <stop offset="1" stop-color="#7cf0c9"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="#0f1a33" stroke="rgba(255,255,255,.12)"/>
+  <path d="M74 72c10 0 18-8 18-18 0-8-5-15-13-18-3-12-14-20-27-18-10 1-18 8-21 17-9 1-16 9-16 18 0 11 9 19 19 19h40z"
+        fill="url(#g)"/>
+</svg>
