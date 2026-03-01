@@ -1,1 +1,6 @@
+Contact: mailto:sales@cloudnetworksolutions.com.au
+Preferred-Languages: en
+Policy: https://cloudnetworksolutions.com.au/security.html
+Canonical: https://cloudnetworksolutions.com.au/.well-known/security.txt
+Expires: 2027-03-01
 
